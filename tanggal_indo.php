@@ -1,8 +1,4 @@
 <?php
-
-$input = "2019-10-23";
-
-
 function tanggal_indo($input="",$delimeter="-")
 {
 	if (empty($input)) 
