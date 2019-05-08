@@ -46,6 +46,8 @@ function tanggal_indo($input="",$delimeter="-")
 	}
 }
 
+
+//testing
 echo tanggal_indo("2010-3-10","-");
 
 ?>
